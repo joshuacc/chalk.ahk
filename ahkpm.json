@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "description": "An AutoHotkey library for colorizing terminal output",
+  "repository": "https://github.com/joshuacc/chalk.ahk",
+  "website": "https://github.com/joshuacc/chalk.ahk",
+  "license": "MIT",
+  "issueTracker": "https://github.com/joshuacc/chalk.ahk/issues",
+  "include": "chalk.ahk",
+  "author": {
+    "name": "Joshua Clanton",
+    "email": "",
+    "website": "https://joshuaclanton.dev"
+  },
+  "dependencies": {
+    "github.com/joshuacc/AutoHotUnit": "^1.0.0"
+  }
+}
